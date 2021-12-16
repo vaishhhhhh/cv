@@ -1,0 +1,22 @@
+
+body{
+  background-color:  #97BFB4;
+}
+h1
+{
+  color: #064635;
+}
+h3
+{
+    color: #064635
+}
+hr
+{
+    border-style: dotted none none;
+    border-color: grey;
+    border-width: 5px;
+    width: 2.5%;
+  }
+.DP{
+  border-radius: 150px;
+}
